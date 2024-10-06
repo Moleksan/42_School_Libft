@@ -44,7 +44,7 @@ To remove all compiled files, run:
 
 To create bonus functions, run:  
   
-   make bonus  
+    make bonus  
   
 Feel free to explore the code and see how each function is implemented!  
 
